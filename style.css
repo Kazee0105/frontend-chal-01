@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+    border: 2px dotted black;
+    max-width: 400px;
+    padding: 2em;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.header {
+    max-width: 300px;
+}
+.light-text {
+    max-width: 300px;
+}
